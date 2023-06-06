@@ -1,2 +1,2 @@
-# aws-spring-boot-mysql
-aws-spring-boot-mysql-docker-yml
+# spring-boot-crud-example
+CRUD operation using spring boot and MySQL
